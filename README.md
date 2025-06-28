@@ -60,8 +60,8 @@ Document Analysis (extract text, [optional: LLM/AI])
 ### 1. Clone the repo
 
 ```sh
-git clone https://github.com/YOUR_USERNAME/genai-doc_analyser.git
-cd ai-docbot
+git clone https://github.com/kishor020305/genai-doc_analyser.git
+cd genai-doc_analyser
 ```
 
 ### 2. Build & Run Everything (Docker Compose)
